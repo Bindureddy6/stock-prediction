@@ -1,0 +1,9 @@
+
+```txt
+pandas
+numpy
+yfinance
+scikit-learn
+matplotlib
+seaborn
+joblib
